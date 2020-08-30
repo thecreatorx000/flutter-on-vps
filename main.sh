@@ -8,8 +8,6 @@ clear
 unzip master.zip
 clear
 mkdir Android
-cd Android/
-mkdir Sdk
 cd ~
 clear
 mv ~/Flutter_Essentials-master/Sdk ~/Android/
