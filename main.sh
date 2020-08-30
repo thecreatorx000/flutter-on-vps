@@ -46,5 +46,4 @@ echo "\n\nCOMMANDS\n1. $ flutter create myapp\n2. $ flutter run -d web-server --
 
 cd ~
 python3 main.py
-rm main.py
 
