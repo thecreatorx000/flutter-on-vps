@@ -43,8 +43,9 @@ clear
 flutter upgrade
 clear
 
-flutter devices
+
 
 cd ~
 python3 main.py
+flutter devices
 
