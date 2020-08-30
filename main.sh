@@ -38,6 +38,10 @@ flutter upgrade
 clear
 flutter config --enable-web
 clear
+flutter channel dev
+clear
+flutter upgrade
+clear
 
 flutter devices
 echo "\n\nCOMMANDS\n1. $ flutter create myapp\n2. $ flutter run -d web-server --release\n3. $ flutter build apk --release\n\n"
