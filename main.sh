@@ -44,7 +44,6 @@ flutter upgrade
 clear
 
 flutter devices
-echo "\n\nCOMMANDS\n1. $ flutter create myapp\n2. $ flutter run -d web-server --release\n3. $ flutter build apk --release\n\n"
 
 cd ~
 python3 main.py
