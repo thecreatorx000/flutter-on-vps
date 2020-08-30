@@ -8,3 +8,4 @@ with open(root_path + ".bashrc", "a+") as file:
 print("#" * 10, "Setup Completed", "#" * 10)
 print("Happy Programming!")
 print("\nCOMMANDS\n1. $ flutter create myapp\n2. $ flutter run -d web-server --release\n3. $ flutter build apk --release\n\n")
+print("@" * 10, " Devices ", "@" * 10)
