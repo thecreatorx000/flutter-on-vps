@@ -5,7 +5,7 @@ clear
 cd ~
 wget https://github.com/LinuxArchives/Flutter_Essentials/archive/master.zip
 clear
-unzip master.zip
+unzip -qq master.zip
 clear
 mkdir Android
 cd ~
@@ -21,7 +21,7 @@ cd ~
 
 wget https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_1.20.2-stable.tar.xz
 clear
-tar xf flutter_linux_1.20.2-stable.tar.xz
+tar -xf flutter_linux_1.20.2-stable.tar.xz
 clear
 cd ~
 sudo apt install git
