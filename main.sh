@@ -15,6 +15,7 @@ mv ~/Flutter_Essentials-master/Sdk ~/Android/
 rm ~/Flutter_Essentials-master -r
 cd ~
 rm master.zip
+rm README.md
 clear
 cd ~
 
