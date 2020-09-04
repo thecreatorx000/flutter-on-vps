@@ -31,8 +31,8 @@ clear
 cd ~
 export ANDROID_HOME="`pwd`/Android/Sdk"
 export PATH="$PATH:`pwd`/flutter/bin:$ANDROID_HOME:$ANDROID_HOME/platform-tools"
-#rm flutter_linux_1.20.2-stable.tar.xz
-#clear
+rm flutter_linux_1.20.2-stable.tar.xz
+clear
 
 flutter channel beta
 clear
